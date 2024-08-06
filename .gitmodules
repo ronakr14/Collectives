@@ -1,0 +1,24 @@
+[submodule "Cloud-Technologies"]
+	path = Cloud-Technologies
+	url = https://github.com/ronakr14/Cloud-Technologies.git
+[submodule "Operating-Systems"]
+	path = Operating-Systems
+	url = https://github.com/ronakr14/Operating-Systems.git
+[submodule "API"]
+	path = API
+	url = https://github.com/ronakr14/API.git
+[submodule "Version-Control-Systems"]
+	path = Version-Control-Systems
+	url = https://github.com/ronakr14/Version-Control-Systems.git
+[submodule "Containers"]
+	path = Containers
+	url = https://github.com/ronakr14/Containers.git
+[submodule "Database-and-Datawarehouse"]
+	path = Database-and-Datawarehouse
+	url = https://github.com/ronakr14/Database-and-Datawarehouse.git
+[submodule "Programming-Languages"]
+	path = Programming-Languages
+	url = https://github.com/ronakr14/Programming-Languages.git
+[submodule "Artificial-Intelligence"]
+	path = Artificial-Intelligence
+	url = https://github.com/ronakr14/Artificial-Intelligence.git
