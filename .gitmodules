@@ -22,3 +22,6 @@
 [submodule "Artificial-Intelligence"]
 	path = Artificial-Intelligence
 	url = https://github.com/ronakr14/Artificial-Intelligence.git
+[submodule "Projects"]
+	path = Projects
+	url = https://github.com/ronakr14/Projects.git
