@@ -43,12 +43,12 @@ Explore various operating systems, their architecture, and functionalities. This
 |---|---|---|---|---|---|---|---|
 |1.|[Linux](https://ronakr14.github.io/Linux/)|
 
-## [Version Control Systems](version_control/index.md)
+## [Version Control Systems](https://ronakr14.github.io/Version-Control-Systems/)
 Learn about version control systems and their role in managing code changes. This section focuses on tools like Git, including commands, workflows, and best practices for version control.
 
 |#|Concept|#|Concept|#|Concept|#|Concept|
 |---|---|---|---|---|---|---|---|
-|1.|[GIT](version_control/git/index.md)|
+|1.|[GIT](https://ronakr14.github.io/GIT/)|
 
 ## [Projects](projects/index.md)
 A collection of various projects, their descriptions, and the technologies used. This section showcases practical applications and implementations related to different topics covered in the notes.
